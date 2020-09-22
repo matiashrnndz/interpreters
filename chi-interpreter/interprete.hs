@@ -1,4 +1,4 @@
-module interprete where
+module Interprete where
 import Prelude
 
 {-- Autores
